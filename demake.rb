@@ -5,8 +5,8 @@
 class Demake < Formula
   desc "Helper to translate Makefile rules to PyInvoke tasks.py file"
   homepage "https://github.com/edvardm/demake"
-  url "https://github.com/edvardm/demake/archive/refs/tags/0.1.4.2.tar.gz"
-  sha256 "f844d9a4a87f85e623bc683a7a98e0a09a4f4b3b2c9c8afde8ebb41aaec75bd5"
+  url "https://github.com/edvardm/demake/archive/refs/tags/0.1.6.tar.gz"
+  sha256 "cb5bfa1d1095d1c114a266b36aa5ca3e72e751ad3d3c14cc01184c0789fc02db"
   license "MIT"
 
   depends_on "cabal-install" => :build
